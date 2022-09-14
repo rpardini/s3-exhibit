@@ -11,7 +11,7 @@
     </parent>
     <groupId>net.pardini</groupId>
     <artifactId>s3exhibit</artifactId>
-    <version>0.0.4</version>
+    <version>0.0.5</version>
     <name>s3exhibit</name>
     <description>Given S3 creds, turns GET requests into redirects for S3-signed downloads (or, use CloudFront for the
         same)
